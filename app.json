@@ -80,7 +80,7 @@
     },
    "STATUS_REACT_EMOJIS": {
       "description": "Enter your auto like status emojis",
-      "value": "💚,🚀,🌎,✅",
+      "value": "💚","♥️"
       "required": false 
     },
     "AUTO_REACT": {
