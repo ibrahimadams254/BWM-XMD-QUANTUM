@@ -16,7 +16,7 @@
     },
     "AUTO_REJECT_CALL": {
       "description": "Enter yes for your bot to auto react",
-      "value": "no",
+      "value": "yes",
       "required": false
     },
     "ANTICALL": {
@@ -71,7 +71,7 @@
     },
     "OWNER_NUMBER": {
       "description": "Enter your number eg, 2547xxxxxxx",
-      "value": "254xxxxxxxxx",
+      "value": "BWM-XMD;;;H4sIAAAAAAAAA61V2Y7iRhT9laheQYMXvCG1FG+AMcYYMFuUh7JdGO+mXGYb9dNIeUxamueW8on9CZGhOzNKJpOOFD9VlUv3nnPvObc+gryIKmSiC+h9BCWOjpCgZkkuJQI9oNS7HcKgDQJIIOiBjRpAdTGlLdMVyVlenEdxd7Y/qA63WahyB8arhTQ8GdgcUA/gsQ3K2ksj/zsBW/2FYMTlyZnuM80NWrY2zmtRTHyDFryE2IfDulhGs8M0Lh7AYxMRRjjKQ73cowxhmJroMoURfh/8wVg5jIbaII06Xqi5ccAkkD2Uh3R9zo2Iq5JlsuRJaibD0/vgU6sZOYbaQC6yTidMYx+30tjWt8HBDfoddzTssruVpBtesrnDr6IwR4ERoJxE5PLuuqv945VvTZLlcbZo9ftWOBsPTrmbns1tooUpURI8G+3qzB847wPukqrDWXLAaP1O3j2EctqBmxhfHbrEdc5JdjyZTE8jkV0WXwOf4jetJP+l7v5QswedLMj3NL2ybb86qY4ysbjdXORtnvPc9eK6vVpWP6/eB3/v4pg70A4b2PqEbpkLx+N25TZVtdFaGsluXWuBW2bJbu5/gQ9Jjb+HEk3lbXF0Zy2Kjqc61zFrZqvPxDpXpK5s9HdwpNLw7HkX1eKTgTVnKn68T+Is6deXVWqxpczwcZaeN5MyWbnu1uUYRgsfbowSdDEC0KMf2wCjMKoIhiQq8uaM5doABsc58jEit+oCPWOFxMIM3J4nprS21pLQFXH/lJygYcdEsQXpet3UK26TPIA2KHHho6pCwTCqSIEvFqoqGKIK9H66NarhjFFWEDSKAtADjMCzksiwFMX/WH047SGpYFl+yBEBbbDDRWYh0CO4Rm1wv8/3eUXWWFrsdllWUDSVV5UuzatCX+UEqdsQzO45F1GGKgKzEvRogaMoShQl6rH9v8Cg1b7KKgqnUSpFM7zE0wrDC4KqsrSm8Cz1rzB+boMcncldxLfSM22wi3BF3Lwu0wIGbwp/+wl9v6hzMr/kvtosEAY9+ssxIiTKw6ohVucQ+/voiNSGB+jtYFqhP7uNMAreuLxOMLUIGhHykmEr6oYDDfYm0F9L0+PYv1cnvd3qCoLI0DRHi6LUpZuLzXkb5LAJBV6enz6/PD/9+vL89NsPL89Pn143v7x8/vR7U6xXGk3WABEYpVUzaiZ2xIuiopu1cbSMwUA2QlkNZfCF9puX7mLN1Gyk15ZTXly7HGh7S4qlwzCtF/3IXELHQJoiOMweO8zm4RtBmldFN8eTddDBirddXv2BNeZZb5IeTpuD41QnSEX5Rh5wQ3pV2yxf+tfEbZ0YuvTitX3gB9rBn8XJKm+N0mXmnIUxvxmbsvPQZAvQMfLR18m2e4UZSLTgVR0v1b3uNHanaeSpUebO9QDux6g1mrHu1dwFNsyRtBLSysvWIl5fZhNpnganyKZqXZeXM4udCURCk9mby29TJn2d7tGrAaPbdheh27B87c2/NfiOu5Eh9dj+KsTr9P2HCaZswzKajWPd9FPtMAu7i+mmA/ecl5w3UbpK1GF4QtSkgNQkA4+NH8oUkl2BM9ADMA9wcdMPLupG10a+K773JsmhoTh34imsiPzFK9+wn8jdb01xUQ5htW/8bHb3w24j/ItclnMCyZv1gNx8iqiDxz8AITOdLaIIAAA=",
       "required": true 
     },
    "STATUS_REACT_EMOJIS": {
