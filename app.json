@@ -86,7 +86,7 @@
     },
     "AUTO_REACT": {
       "description": "Enter your auto react messages",
-      "value": "no",
+      "value": "yes",
       "required": false 
     },
    "AUTO_REACT_STATUS": {
@@ -101,7 +101,7 @@
     },
     "SESSION_ID": {
       "description": "Your session ID",
-      "value": "",
+      "value": "BWM-XMD;;;H4sIAAAAAAAAA61U246jRhD9lahfba3B3C2NtFxt7LHxBcPYUR4aaDAzXJsGjFf+hrzmLb+YT4iwZ7Ij7WZ3IoWnpmiqzjl1qr6ALI8rtEAdmHwBBY4bSFB/JF2BwAQodRgiDIYggASCCZCnKrbHjOJWQi5EYmV5cZPL5amwq1JZ7qSAnzk+qxR6snkA1yEoai+J/R8kfFQF27FaUz7HhrlynjYcztZttDmseeGUUuvAp5tOGXmoe3kA1z4jjHGcRXpxQinCMFmgbg1j/DH4uaWdvXPr6pXTOvO1bD5q/OqyfgnsQfJELuVxqlNKcqTS/f5j8I8FvzP1Ujpd3PG03YrzsYJFQ5ybwX4zUqdjYw5LJ6wzSdfv8Ks4ylBgBigjMek+rHttuZFdDOwyD60SW07xfNjU4aL0ycrj8k3o+iL7JFHhUj98DHji2tJJbBoTul2B8kW3VkfMUvRHo+1cn5bZZhBtxaOC0dl/D3yN37zy8l90X1rHsDq0c3OW6Qsnm5IWbV2FMXaySk1rPowY1lBX40qZmh+DvzxrWsnFz4KxYwuq1JvdcdUs2sNMt+Lgspbm0mLr54oaMsuv8CGp8Y9QXnZotMSnIqEaj1VH1vGR4kym2dkrw7ORXwptYevGTp3q2AwHmzKqEOZz8xTHaQmNfX5ZXqxaqEh6Xs5xO/M4d1TF8sON0QvqzABM6OsQYBTFFcGQxHl2i3HCEMCg2SEfI3KTFzxLL7wby3uGWV9SYVEuL+vDwotsYWbxO5O3SiWgyP5Z85v2AQxBgXMfVRUKZnFFctwtUVXBCFVg8uutUz1pjNKcoHkcgAkYs4wkiiLHSDz/ufrUniCpYFF8yhABQxDiPF0iMCG4RkNw+4HiNHms8SLF8GNGFDRJGiuirLOMLrGaLkg9xfRe1I5TVBGYFmBCCxw1FgWOZq7D/wcHS1OULCpj3tB02qDHsiZpNEcJmsYZoiDIP8HBXn8bggydyd3HvfoMPQRhjCuyz+oiyWHwZvK3j9D38zojuy7z1f6AMJi8CyNC4iyqemZ1BrF/ihuk9jzAJIRJhf5pOMIoeOPyusTUPOh9yLKGw1jOEfTY+0TfaDMZf6tOchdE6K/QtEgxHM9Nxp/78BBksM8E4szPs6z+5a8///i9l+YVdF8jQATGSQUmQF2FDB7oim5284tvTqeyGclqJIOvJN+G527OEUOOtf+sN6YJ0yRajVTBMGzVexZMfuOYG9POU8NrBmJ2ePhOkh51lnH6cmNsIyfQfCyFedsFkJTBbGGzm6eBEdK8pVKe4K1EP0Mv5amVRoMn7clRrKAMulNDWLclCX+hZ7RLL1RtaqvRQ18tQE3so/fFuJLMoFNsuUKmszx9qkKYJZ3F8dyZnXpiR1YRe24dt3QMAYuUd1lVU4upV2m53cBMypYHMRJ1n6lnLpJN07vYshRv7mN9WyvJ6zqPXwcuvr2GMbptx9dW/Kydd9y96ajr8F2K13X7LytLCSXB9TLz/Nip06I4aGFbn7f7NmUHnfVi7HRV5+cnVxg18zG49u4vEkjCHKdgAmAW4PxmF5zXvYvNLMx/UEyVTVOP7sQTWBH562R8Z9go8X5rjfNiBqtTr8GaPpzC3uadXBQ7AsnboAG5f+blE7j+DaMdKpWTCAAA",
       "required": true
     },    
     "STARTING_BOT_MESSAGE": {
