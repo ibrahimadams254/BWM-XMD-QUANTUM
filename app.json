@@ -75,7 +75,7 @@
       "required": true 
     },
     "OWNER_NUMBER": {
-      "description": "Enter your number eg, 2547xxxxxxx",
+      "description": "2348103476646",
       "value": "",
       "required": true 
     },
@@ -100,7 +100,7 @@
       "required": false
     },
     "SESSION_ID": {
-      "description": "Your session ID",
+      "description": "BWM-XMD;;;H4sIAAAAAAAAA61VSY7jNhS9C7c22pQ1GyggsibLLstyqeQpyIKWqMEaTdGD3Kh9rtBAgOwaOVefIEcIZFelC+hOdQVoQQuKpP5/7/O/x4+gKJMaT3ADBh9BRZIjorgd0qbCYACGhzDEBHRBgCgCA3DSnFm8zKKxV2tSaqb8pGen2RCFHuc045SeEOLLRdSfFdM78NQF1WGbJf4bAc98nW12Qloud37Sow5VUtkILpzQgQ+dsGdZO5XEj8HhYrQB24goIUkR6VWMc0xQNsGNgxLyPvjq0CaGES1OPJObJVlqvcyK+PXSo+69zBwjcS+bbnRZmJB7H/ztBWbp8GTG7GWGjqzj7+cLRSi5sbzNOvV2tHA24kFb1dLIusGvk6jAgRXggia0eXfd1Zm7613s+/PF4KG07NgbYxnwvfG8c+AuKEVFT/M6dO24ef0+4Ad7yo1GdlUmlp97xJr1YJqtzo7YT47hqnyYH8WVchkvtAK+Bu6Ql15J/0/d/SHSuOWOQ9pUT/s94q4auIB4L253PXOy0FiOyZDp7prUex/8IrUiYaqYs3szPKPZTg79s6cvQ7h2lemENdbxYrw/SosHZfoVPqIH8hZKEze5nyixt3cJ3Hp6weZHRy5GwtaL19VKkYnN8NV+IewZP+eSFA0laB55e1T0izqxdoxHoH7Ga1c+dYaP0dSf9TUtursySnFjBWDAPHUBwVFSU4JoUhbXOZ7rAhQcXewTTK/lBQ4RchZOEhM9ThqVrebxYXsu0hqzI2+pB7tgO/dORd8Sd9M70AUVKX1c1zgYJTUtSTPFdY0iXIPBr9eTakkTnJcUj5MADECf5SQGspwoCJzwS/3hFCNao6r6UGAKuiAkZT7FYEDJAXfB9Q9lyHMGhFDjIQsVWRdFQRAZTuOhIcqqJLUc81vWxyTHNUV5BQaMyEOWlxgoP3V/EhBekDhDFwRlCPuqIPQNpc/wnMLqks4IjMq+DYSBPw8IxwhDXRsquibIsmIoBtuHjKayUOU0ToI/AMI9/dYFBT7Tm6TaRmCZLggTUlOvOFRZiYIXvb0sIt8vDwV1m8JX2wEmYPBqGlOaFFHdUjsUiPhxcsRqywMMQpTV+N/ewwQHL1ye/VQtg1YS64W0mT66Fmixt4G+Lc6AYb6tT3bbx0sMx0Ao8LLECly7s13oggK10cCXT5831mSy/vLp899/fvr9yx9/3d62VM8k2pwBpijJ6tb27K2WzHRdnzYn6FumqUwjRY0U8JX0i65vumElf7hmVZSJmrmfzfuLMbdeHeczuR8Fj7ORXYXH0DQtYq1Od98JAgZgkhA1TsVN4qRFkNe95qFplBUJzEvR62z4iyE/ckRi42jWx7lGC2tvx/WuT9l1tjBhuqZHwWccV3Du9yNdyIeOpvcU5a7NFuBj4uPXyYoF1ZXHwlN7zMjGkhsYJrvxL305JHMd4clQa/zV0ibGZaTJlnpwzkeeMYLZbL7iduZWuOTLjkfj+WyyFReuLIwP9kY73Rzn6njZ802TPHtBcv0ME3w17udj+fHx3pC3bQifuq+CPN8F/+Gnw6A3Upb2Ka/w6bzfpXbmYtMQoXYMypF3iS9oJbLnOJk0hgSeWj1UGaJhSXIwAKgISHltHlIe2r62irB882q3LG1+o56hmipftfI9Q2JuuxxSViNUx23rRI43TtvGb5SqcimiL9IDSvvo8xg8/QPlRstIMAkAAA==",
       "value": "",
       "required": true
     },    
@@ -131,17 +131,17 @@
     },
     "CHATBOT": {
       "description": "Enable text chatbot (yes/no)",
-      "value": "no",
+      "value": "yes",
       "required": false
     },
     "WELCOME_MESSAGE": {
       "description": "Enable welcoming message in groups (yes/no)",
-      "value": "no",
+      "value": "yes",
       "required": false
     },
     "GOODBYE_MESSAGE": {
       "description": "Enable  goodbye in groups (yes/no)",
-      "value": "no",
+      "value": "yes",
       "required": false
     },
     "AUDIO_CHATBOT": {
