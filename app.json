@@ -20,7 +20,7 @@
     },
     "AUTO_BIO": {
       "description": "Enter yes for your bot to auto update bio",
-      "value": "yes",
+      "value": "no",
       "required": false
     },
     "AUTO_REPLY_STATUS": {
@@ -53,9 +53,9 @@
       "value": "BWM-XMD",
       "required": false
     },
-    "BOT_IMAGE": {
-      "description": "Image URL for your bot menu",
-      "value": "https://files.catbox.moe/h2ydge.jpg",
+    "BOT_URL": {
+      "description": "Image or video url for your bot menu",
+      "value": "https://url.bwmxmd.online/Adams.zwu780jq.jpg,https://url.bwmxmd.online/Adams.dlmegzh8.mp4",
       "required": false
     },
     "PUBLIC_MODE": {
@@ -78,7 +78,7 @@
       "value": "",
       "required": true 
     },
-   "STATUS_REACT_EMOJIS": {
+    "STATUS_REACT_EMOJIS": {
       "description": "Enter your auto like status emojis",
       "value": "💚,🚀,🌎,✅",
       "required": false 
@@ -88,7 +88,7 @@
       "value": "no",
       "required": false 
     },
-   "AUTO_REACT_STATUS": {
+    "AUTO_REACT_STATUS": {
       "description": "Enter yes for your bot to auto like status",
       "value": "yes",
       "required": false 
@@ -118,14 +118,14 @@
       "value": "yes",
       "required": false
     },
-   "ANTIDELETE_RECOVER_CONVENTION": {
+    "ANTIDELETE_RECOVER_CONVENTION": {
       "description": "Enable anti-delete deleted to recover in conversation (yes/no)",
       "value": "no",
       "required": false
     },	  
     "GROUPANTILINK": {
       "description": "Enable anti-link in groups (yes/no)",
-      "value": "yes",
+      "value": "no",
       "required": false
     },
     "CHATBOT": {
@@ -146,6 +146,56 @@
     "AUDIO_CHATBOT": {
       "description": "Enable audio chatbot (yes/no)",
       "value": "no",
+      "required": false
+    },
+    "MENU_TOP_LEFT": {
+      "description": "Menu top left design",
+      "value": "┌─❖",
+      "required": false
+    },
+    "MENU_BOT_NAME_LINE": {
+      "description": "Bot name line",
+      "value": "│ ",
+      "required": false
+    },
+    "MENU_BOTTOM_LEFT": {
+      "description": "Menu bottom left",
+      "value": "└┬❖",
+      "required": false
+    },
+    "MENU_GREETING_LINE": {
+      "description": "Greeting line",
+      "value": "┌┤ ",
+      "required": false
+    },
+    "MENU_DIVIDER": {
+      "description": "Menu divider",
+      "value": "│└────────┈⳹",
+      "required": false
+    },
+    "MENU_USER_LINE": {
+      "description": "User line in menu",
+      "value": "│🕵️ ",
+      "required": false
+    },
+    "MENU_DATE_LINE": {
+      "description": "Date line in menu",
+      "value": "│📅 ",
+      "required": false
+    },
+    "MENU_TIME_LINE": {
+      "description": "Time line in menu",
+      "value": "│⏰ ",
+      "required": false
+    },
+    "MENU_STATS_LINE": {
+      "description": "Stats line in menu",
+      "value": "│⭐ ",
+      "required": false
+    },
+    "MENU_BOTTOM_DIVIDER": {
+      "description": "Bottom divider of menu",
+      "value": "└─────────────┈⳹",
       "required": false
     }
   },
